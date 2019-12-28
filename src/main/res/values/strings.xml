@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gotta Potty</string>
+    <string name="logo">Logo</string>
+    <string name="search_a_potty">Search a Potty</string>
+    <string name="add_a_potty">Add A Potty</string>
+    <string name="loadinglogo">loadinglogo</string>
+    <string name="title_activity_search_potty">searchPotty</string>
+    <string name="search_an_area">Search an Area</string>
+    <string name="searchpottybutton">searchPottyButton</string>
+    <string name="title_activity_found_potty">foundPotty</string>
+</resources>
